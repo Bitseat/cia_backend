@@ -1,0 +1,1 @@
+In Payment table, please show Payment Type and Original Pmt Type columns

@@ -1,0 +1,1 @@
+Add prefix cp_ to usernames of users creating collection Activity

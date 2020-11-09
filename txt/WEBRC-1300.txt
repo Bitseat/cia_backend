@@ -1,0 +1,1 @@
+Employee Activity Detail - Also show the Results section content when reviewing Collection entries

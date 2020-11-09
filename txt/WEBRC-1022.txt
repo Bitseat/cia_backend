@@ -1,0 +1,1 @@
+Show 10 rows per page on the drill downs

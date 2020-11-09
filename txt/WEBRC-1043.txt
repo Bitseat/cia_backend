@@ -1,0 +1,1 @@
+In Payment Report, please show count and amount on Graph. - Usage Dashboard

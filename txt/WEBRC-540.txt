@@ -1,0 +1,1 @@
+Collection Activity should display all activity

@@ -1,0 +1,1 @@
+In Delinquency Summary mention ‘as on <server date>’ (in MM/DD/YYYY format) next to table title

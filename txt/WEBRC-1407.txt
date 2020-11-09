@@ -1,0 +1,1 @@
+Align and resize the textboxes with the updated buttons size

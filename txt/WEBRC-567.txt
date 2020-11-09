@@ -1,0 +1,1 @@
+Collection Re-order the tabs present on a Customer.

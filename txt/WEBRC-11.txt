@@ -1,0 +1,1 @@
+User access in Branch Database using AD authentication

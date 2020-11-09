@@ -1,0 +1,1 @@
+Ability to navigate to Customer details from All tab of Employee Activity Detail Report

@@ -1,0 +1,1 @@
+RemoteWare process for Scan and Upload feature in Connect+

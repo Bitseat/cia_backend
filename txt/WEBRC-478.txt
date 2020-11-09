@@ -1,0 +1,1 @@
+Customer - Allow Column Rearragements

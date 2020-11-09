@@ -1,0 +1,1 @@
+Click-to-Dial with 1 prefixed automatically when dialling from Jabber

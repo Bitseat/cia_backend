@@ -1,0 +1,1 @@
+Collection - Payments table should have latest entries on the top.

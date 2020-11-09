@@ -1,0 +1,1 @@
+Explain Branch Application Concurrency Implementation for offshore team

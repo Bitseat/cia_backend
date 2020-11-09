@@ -1,0 +1,1 @@
+Collection Customer Comments to show next to Customer name.

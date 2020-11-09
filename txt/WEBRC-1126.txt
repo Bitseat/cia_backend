@@ -1,0 +1,1 @@
+Toggle swtich in Employee Activity to show only edits/additions

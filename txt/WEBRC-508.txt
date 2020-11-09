@@ -1,0 +1,1 @@
+Collection - Collection Actions - Activities & Payments Table should display at least 5 rows.

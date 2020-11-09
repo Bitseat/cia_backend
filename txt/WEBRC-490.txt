@@ -1,0 +1,1 @@
+The users session should expire after a specified time (e.g. 30 minutes)

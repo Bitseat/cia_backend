@@ -1,0 +1,1 @@
+Configure Serilog for authorization server 

@@ -1,0 +1,1 @@
+Configuration to switch to Supervisors only login to Connect+

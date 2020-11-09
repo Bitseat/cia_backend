@@ -1,0 +1,1 @@
+Adapting Telerik Table View for 5 reports, 1 customer search result

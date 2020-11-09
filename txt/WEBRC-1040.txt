@@ -1,0 +1,1 @@
+Ability to waive extra fee in Account tab.

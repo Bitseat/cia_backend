@@ -1,0 +1,1 @@
+Rename Save All to Upload All and Cancel to Discard

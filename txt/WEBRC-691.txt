@@ -1,0 +1,1 @@
+When user belongs to two or more Connect+ roles, the user will have access added from all the roles

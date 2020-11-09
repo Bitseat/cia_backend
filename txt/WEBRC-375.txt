@@ -1,0 +1,1 @@
+Show a circle ticker while data is getting retrieved 

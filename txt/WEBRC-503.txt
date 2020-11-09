@@ -1,0 +1,1 @@
+Delinquency Summary - Show percentage upto two decimal points

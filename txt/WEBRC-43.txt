@@ -1,0 +1,1 @@
+Retrieve  connection string to Branch database for home office database

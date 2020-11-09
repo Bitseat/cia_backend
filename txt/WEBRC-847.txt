@@ -1,0 +1,1 @@
+Update Automation Test based on new UI

@@ -1,0 +1,1 @@
+Show the User who took the payment in Connect+ Payment report

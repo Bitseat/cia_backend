@@ -1,0 +1,1 @@
+Collections - Payments  Please include responsive design on the tables displayed in this page.

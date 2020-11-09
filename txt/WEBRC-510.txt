@@ -1,0 +1,1 @@
+Customer account should show notification in Connect+ if opened in Branch

@@ -1,0 +1,1 @@
+In Table, only ellipsis button next to the Column Name should have all options including the filter option

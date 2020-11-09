@@ -1,0 +1,1 @@
+Alternative to validate test branches whilst logging into Connect+

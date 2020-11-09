@@ -1,0 +1,695 @@
+Issue_key,Requirement
+WEBRC-17,Review and Design Processing Debit Card payment using Remote Connect
+WEBRC-166,Develop Protractor test scripts
+WEBRC-167,Benchmark Identification based on raw queries
+WEBRC-168,"Performance tool, framework and metrics selection"
+WEBRC-169,Preparation of final project plan document
+WEBRC-170,Preparation of performance requirement and load model document
+WEBRC-171,Test environment planning document
+WEBRC-172,End to end test script development and test data preparation
+WEBRC-173,Preparation of test plan document
+WEBRC-174,Test execution and test result documentation for end to end test
+WEBRC-175,Test execution and test result documentation for the web service (API)
+WEBRC-176,Test result analysis and documentation for the web service (API)
+WEBRC-177,Test result analysis and documentation for end to end test
+WEBRC-209,CICD Documentation review
+WEBRC-211,Telerik Controls Research
+WEBRC-212,IE and other App Compatibility Changes Research
+WEBRC-214,"Continued Testing Against the Branch Application, Data and Updation on the Test Case Document"
+WEBRC-215,Active Directory Issue
+WEBRC-216,Cleaning up the reports
+WEBRC-217,Microservices
+WEBRC-218,AD authorization 
+WEBRC-219,CICD Documentation
+WEBRC-220,Telerik Grid Control research 
+WEBRC-221,Test Cases Review
+WEBRC-222,Performance Test Review
+WEBRC-223,Perform Spot Checks against the Branch Application and document the findings
+WEBRC-224,Research on Branch Application additional features
+WEBRC-225,Application walk through with David
+WEBRC-226,Dev and QA Testing the application after Defect Fixes - Fund Disbursement Issue
+WEBRC-227,Confirmation on the Timelines from Lori and Rich
+WEBRC-228,Weekly Status Reporting to Stakeholders
+WEBRC-229,VDI issue resolution for Daniel
+WEBRC-230,Renewal of the Power Builder License for Endale
+WEBRC-232,Adding new and improving existing functional tests
+WEBRC-233,Experimenting on Messaging Service  
+WEBRC-234,Exploring QA Testing Tools 
+WEBRC-235,Creating Automation Test Presentation
+WEBRC-236,Connecting Protractor to QTest
+WEBRC-238,Coordination with the Training Team on updating documentation
+WEBRC-239,QTest Explore
+WEBRC-240,Setup Test runner task and reporter for CI
+WEBRC-241,Preparation of unit and functional test presentation document
+WEBRC-242,Coordination with Rudy and John on having the Branch installed for all Team Members
+WEBRC-243,Coordination with the Team in implementing the Cease requirement
+WEBRC-247,Repay Change Source Type
+WEBRC-258,Reconfigure connection to test db for Branch Application
+WEBRC-261,write test case Cease and log
+WEBRC-262,Examine Branch Application How Login works and document it
+WEBRC-282,Research on ELK Stack
+WEBRC-287,Add More scenario to protractor test 
+WEBRC-289,Veracode Report
+WEBRC-295,Exploring Micro Focus Unified Functional Testing (UFT)
+WEBRC-310,Upload project artifices for security test
+WEBRC-311,Version mismatch for database
+WEBRC-315,Employee Branch access stored procedure in production database needs update
+WEBRC-324,Export Project documentation to WIKI
+WEBRC-326,New Connect + User Creation process documentation
+WEBRC-332,Reviewing ConnectPlus 2 
+WEBRC-339,Performance testing in Production
+WEBRC-343,Sprint Planning
+WEBRC-895,User Walk Tru 
+WEBRC-589,Create a library that will take a Model and returns a formatted and parameterized sql query
+WEBRC-600,E2E UI Testing
+WEBRC-608,Testing End to End
+WEBRC-614,Audit Trail - Show Checked and Unchecked 
+WEBRC-617,End to End testing
+WEBRC-618,Helping on regression testing
+WEBRC-619,End to end front end testing 
+WEBRC-620,Testing
+WEBRC-621,Regression testing 
+WEBRC-622,Make code ready for production 
+WEBRC-381,Finalizing Sprint 11
+WEBRC-382,Employee Activity - Development of new V 2.0 UI Changes
+WEBRC-664,"Reorganize,Prepare seed data and test Role Configuration on database"
+WEBRC-669,Read only restriction  Testing Backend API Case 
+WEBRC-673,End to end  UI testing
+WEBRC-695,Write test case for this sprints requirement
+WEBRC-696,Automation Test script for login branch selection and dashboard
+WEBRC-697,"Automation Test script for Collection, address and reference"
+WEBRC-698,Automation Test script for Employee Activity report
+WEBRC-707,Revisit the Address Unit Test
+WEBRC-730,Testing QA items
+WEBRC-739,Remaining task from type ahead
+WEBRC-771,Automation Test Cases on Role based access
+WEBRC-772,Q-Test Coverage on Sprint Items
+WEBRC-805,Dashboard - Unit test on SEQ - Fetch and Logs Manager
+WEBRC-822,Testing Items on QA
+WEBRC-848,Quality assurance process review
+WEBRC-859,Update End to End Test Result on qTest
+WEBRC-871,Protractor qTest integration 
+WEBRC-1252,Help and Notification
+WEBRC-1251,Manage Branch Users
+WEBRC-1250,Employee Activity Report
+WEBRC-1247,Connect + administration 
+WEBRC-1249,Collections
+WEBRC-1219,Unattended Install 
+WEBRC-1193,Create Test case for sprint 26 user stories
+WEBRC-1135,Automation Test Script for Sprint 25
+WEBRC-1136,Organize and create Test case for sprint 25 User stories in qTest 
+WEBRC-1137,Sprint 25 Manual Test Execution 
+WEBRC-1138,Create automation test runner on qTest
+WEBRC-646,RedisCache based distributed cash
+WEBRC-629,Removing dependency on Recency Criteria for searching Customers.
+WEBRC-1103,App Dynamics
+WEBRC-1057,Regression Testing of v 2.3 on Dev & QA
+WEBRC-1055,Sprint 22 & 23 Automation testing 
+WEBRC-989,Enable Distribute Caching on Dashboard
+WEBRC-987,Manual Testing of V 2.3 Items
+WEBRC-986,Manual Testing of V 2.3 Items
+WEBRC-899,UI Design on Figma for User Walk Tru
+WEBRC-876,Create cross system application setting tables
+WEBRC-877,Maintain and update logging to accomadete report requirement
+WEBRC-213,Funds Disbursement vs Loan Amount Changes
+WEBRC-210,Fund Disbursement Backend Development and Validation
+WEBRC-647,Merge Payment feature with the recent release
+WEBRC-245,Task estimation on the Cease functionality
+WEBRC-237,Adding users to the AD Group
+WEBRC-1274,Automation Testing on Sprint 26
+WEBRC-1264,Printed Checks Report
+WEBRC-1266,Exception Activity-Daily Closing Performed/Accessed Report
+WEBRC-1269,Exception Activity-Bank Cash Drawer Activity Access Report
+WEBRC-1267,Exception Activity-Cash Drawer Not Reported
+WEBRC-1270,Daily Closing Report
+WEBRC-1360,Column preference should be implemented on report grid
+WEBRC-1279,Investigate Renewal Amount Color Code 
+WEBRC-1295,Edit Renewal Amount 
+WEBRC-1286,Investigate Report Implemetation
+WEBRC-478,Customer - Allow Column Rearragements
+WEBRC-1377,Automation Test for Sprint 27
+WEBRC-1275,Test Case for Sprint 27
+WEBRC-1376,Test Case for Sprint 28
+WEBRC-1297,One or more Documents of the same Type
+WEBRC-1440,Read File from Dip Folder
+WEBRC-1431,Automation Test Scripts for Sprint 28
+WEBRC-1427,"Performance Enhancement for Address Reference, Payment and 13 for Account"
+WEBRC-1428,Performance Enhancement for Reference
+WEBRC-1429,Performance Enhancement for Payment
+WEBRC-1430,Performance Enhancement for Account
+WEBRC-1268,Loan Journal Report
+WEBRC-1265,Cash Drawer Tape Report
+WEBRC-1263,BR Loan Journal Report
+WEBRC-1276,Code Refactoring - Account Module
+WEBRC-1248,Connect + Dashboards
+WEBRC-1426,View Documents from OnBase
+WEBRC-1372,POC - Connect + as a Windows Service
+WEBRC-1439,Remove file from Station one API
+WEBRC-1410,Pre-production check list
+WEBRC-1262,Daily Managers Report Detail
+WEBRC-1271,Daily Managers Report
+WEBRC-1392,Figma Design for Sprint 28 Items
+WEBRC-1432,Test case for Sprint 29
+WEBRC-476,Non disruptive sort on the customers page
+WEBRC-411,"Branch Activity Dashboard : Updates to UI of Payments Received, Loans, Funds Disbursed & Delinquency Summary."
+WEBRC-898,DB Documentations - Customer
+WEBRC-849,Touch up on Admin Page
+WEBRC-1354,Edit Customer Guide and Sync
+WEBRC-851,Show description on Group names in Administration
+WEBRC-962,Pre Production checklist
+WEBRC-146,Modifications to the Charge-off selection on the Collections Search Criteria
+WEBRC-135,Dashboard View Fixes and Enhancements
+WEBRC-143,"Rename the Application to ""Remote Connect Plus"""
+WEBRC-145,"Remove the ""Flag by Branch"" checkbox from the Collections Search Criteria"
+WEBRC-141,Employee Activity Reports: Multi-Employee and/or All Activity selections
+WEBRC-144,"Remove ""Inactive"" from the Recency Criteria on the Collections Search Criteria"
+WEBRC-745,Branch Login Activity Log
+WEBRC-1339,Introduce 'Special Retrievals' field in 'Customer Search' screen.
+WEBRC-274,Upgrade to Angular 8
+WEBRC-380,Reviewing Remote connect 2.0 UI design
+WEBRC-1301,Search comments related to Customer search using phone number
+WEBRC-10,User timeouts:
+WEBRC-930,UI/UX for Collateral tab in Connect+
+WEBRC-682,Remaining tasks from WEBRC-581 - Account Tab
+WEBRC-489,Collection - Pay Now - no minimum payment restriction while processing Payment
+WEBRC-279,Modify Notes UI
+WEBRC-349,Collections - Customer Collections Tab - Reorganize associated information 
+WEBRC-348,Collection/Employee Activity- Search Result - Configurable columns
+WEBRC-370,Test Case for Connect Plus 2.0 
+WEBRC-1105,Release Notes
+WEBRC-1185,ELK Stack 
+WEBRC-1096,Archiving old Audit logs - Documentation
+WEBRC-273,Connect Plus 2.0 project prepartion
+WEBRC-447,Auto refresh on Save
+WEBRC-577,"When tables are loading, show a 'loading' icon."
+WEBRC-1021,Mark all States on All Select
+WEBRC-627,Bankrupt accounts should display in the same way as that in Branch.
+WEBRC-530,Employee Activity - Do not group table by Employee
+WEBRC-1402,Scan documents paper size default 
+WEBRC-376,The system should manage the sessions without retrieving the data again
+WEBRC-24,Address Change - Edit - Not saving
+WEBRC-1425,POC - Alternate approach to sending files to folder location in Station-1
+WEBRC-705,We should log all PayNow related activities in Connect+
+WEBRC-369,Include SEQ log property for Environment type
+WEBRC-249,Token verification update for logging
+WEBRC-511,Collections: Effect of Cease on References
+WEBRC-766,Checking for Branch Version compatability
+WEBRC-157,WEBRC-1 TC-4 - Login Test case
+WEBRC-158,WEBRC-1 TC- 5 - Login Test case
+WEBRC-891,Verification on Unit and Postman tests
+WEBRC-598,Production Branch Validation for Dev environment
+WEBRC-473,Login 
+WEBRC-159,WEBRC-3 TC-3 - Customer Collection Search
+WEBRC-38,Usability: Location for calls: should be higher up - about the same level as Activity entry
+WEBRC-100,Search criteria - Employee Activity
+WEBRC-495,Collections - Customer - Payment made from Connect+ to be updated in Payments tab.
+WEBRC-607,Testing the updated queries
+WEBRC-1054,Update Label on Report View Selection 
+WEBRC-847,Update Automation Test based on new UI
+WEBRC-801,Account - Account unit test coverage (Account and Payoff)
+WEBRC-800,Dashboard - Unit Test Coverage on Statistics Manager
+WEBRC-792,Collection - Customer Payment Manager
+WEBRC-806,Dashboard - Unit Test on Employee Manager
+WEBRC-1261,UI Design for Reports
+WEBRC-690,"Introduce Type-ahead search/selection for State, Branch, Employee selection"
+WEBRC-858,Add additional automation test scenario in to automation test script
+WEBRC-557,Identify all Supervisors and add them to the ConnectPlusSupervisors AD Group
+WEBRC-666,Add tables for Connect+ in Home Office DB (SQL Server) - Production Env
+WEBRC-1087,Migration script fro relase 2.3- For review
+WEBRC-244,Usage Statistics
+WEBRC-248,Cease Functionality to be added to Customer Collections
+WEBRC-490,The users session should expire after a specified time (e.g. 30 minutes)
+WEBRC-11,User access in Branch Database using AD authentication
+WEBRC-878,Design and create notification module
+WEBRC-99,Search criteria - Collections
+WEBRC-373,"Updates on the Pay-Now Button pop-up for ""Current"" customers"
+WEBRC-643,Setup QA for testing Admin Module 
+WEBRC-651, Role Based Access to Connect+
+WEBRC-475,Move Complete Out of the Employee profile box
+WEBRC-432,Dashboard - Branch operation - Validate gauge data with Branch Application
+WEBRC-1195,Manual Test Execution 
+WEBRC-123,Production Deployment - Remote Connect Plus Version 1.0
+WEBRC-153,WEBRC-1 TC-2 - Login Test Case
+WEBRC-156,WEBRC-3 TC-2 - Customer Collection Search Test Case
+WEBRC-1221,Unmerge Merged Documents 
+WEBRC-1071,Ensure list of states are only from SFC
+WEBRC-1242,Show warning on Cancel 
+WEBRC-1288,UI Cleanup
+WEBRC-591,Setup branch application for all offshore team and prepare step by step documentation
+WEBRC-1222,Manage User Roles for Viewing and uploading (Scan and Upload)
+WEBRC-1241,Scan & Upload - Save as Draft
+WEBRC-1184,SQL Server DB Documentation 
+WEBRC-296,SEQ documentation and implementation review/testing
+WEBRC-667,Reviewing Unit Test Cases
+WEBRC-799,"Collection - Unit Test Coverage on (Payoff, USPS & Click to pay)"
+WEBRC-802,Branch Employee - Unit test coverage on Employee Services
+WEBRC-803,Collection - Unit Test on Customer (Address & Reference Manager)
+WEBRC-804,Dashboard - Unit Test Budget Dashboard Manager
+WEBRC-672,Merging all UI changes
+WEBRC-758,Evaluate and Compare two Products for APM
+WEBRC-14,Research and Design Architecture and System Design
+WEBRC-1400,RemoteWare process for 'Scan and Upload' feature in Connect+
+WEBRC-90,Remove state  PR from the State selection lists
+WEBRC-985,Manual UAT Testing of V2.3 Items
+WEBRC-610,Regression Testing for changes on V2.1
+WEBRC-1211,Refactor Cease Bankruptcy and charge off 
+WEBRC-642,ADMIN MODULE - Redesign Admin Module
+WEBRC-393,Rearrange Collection API requests for Connect Plus 2.0
+WEBRC-813,User manual document for QTest
+WEBRC-903,Database Documentation - Address and Reference features 
+WEBRC-888,Connect+ Database Documentation
+WEBRC-1085,Prepare Release
+WEBRC-151,Stress Testing
+WEBRC-654,Show 'Job Description' instead of 'Job Code' in Admin module
+WEBRC-566,Collection: Rename 'Activities' tab to 'Collection'
+WEBRC-101,Remote Connect - Collection screen - Customer Report
+WEBRC-499,Dashboard - Branch Activity - Delinquency - identify branch ID
+WEBRC-592,Security Finance Logo and Version number
+WEBRC-565,Collection: Add Account Tab for Customer  - View 
+WEBRC-345,Dashboard - Branch Activity - Displaying Delinquency Summary
+WEBRC-579,Payment made from connect + should automatically post the payment on the customer in branch
+WEBRC-1373,POC - Deploy Connect + RESTFUL APIs
+WEBRC-1187,Show Description of Original Payment Type
+WEBRC-1022,Show 10 rows per page on the drill downs
+WEBRC-842,Move MTD back to Toggle 
+WEBRC-1020,Indent Site usage label
+WEBRC-1018,Update Version 
+WEBRC-1053,Update Label of Assignments - Admin
+WEBRC-1038,Show both Date and Time - Usage Dash
+WEBRC-500,Permission levels within Connect+ like in Branch
+WEBRC-665,UI Component for managing Role Based Access to Connect+ - Phase1
+WEBRC-1206,Multiple Document Scanning
+WEBRC-1361,Move Employee Activity Report under Reports
+WEBRC-718,Collection Activity - Modify Activity Type Lookup loading
+WEBRC-831,Migration script for role based access control
+WEBRC-825,Review Customer Info and create a release 2.2 
+WEBRC-281,Add Seq Server Url Configuration on Deployment
+WEBRC-409,Login Screen: Change the picture in the web page
+WEBRC-8,User Log in to Web Remote Connect Application
+WEBRC-875,Show at least 10-15 people in 'Employees' and 'Guests' page in 'Branch User Administration'
+WEBRC-1260,Bank/Cash Drawer Activity Report
+WEBRC-1352,Version Control - MSI
+WEBRC-676,Integration test
+WEBRC-880,Usage Dashboard integration and testing
+WEBRC-694,Insert this sprint requirement to QTest
+WEBRC-347,Dashboard - Branch Operations - Budget Display
+WEBRC-1156,Include Branch Time Zone on Logs
+WEBRC-1299,Ability to navigate to Customer details from 'All' tab of Employee Activity Detail Report
+WEBRC-593,Admin Module: Please add columns 'State' and 'Branch ID' in Temporary Table.
+WEBRC-85,Country state lookup endpoint
+WEBRC-442,"In Table, only ellipsis button next to the Column Name should have all options including the filter option"
+WEBRC-448,In Delinquency Summary mention ‘as on <server date>’ (in MM/DD/YYYY format) next to table title
+WEBRC-661,Dashboard - Branch Activity Dashboard - Payments Received - Include Customer Web Portal payments
+WEBRC-501,Collections - Print Collection Notes with full SSN
+WEBRC-662,Collections - Locations Valid for Collection - Click to Dial
+WEBRC-568,Collection: Customer Loan information section should be more legible.
+WEBRC-517,Collection - Collection Actions - Activities : Always keep pinned note in the Top row
+WEBRC-540,Collection Activity should display all activity
+WEBRC-477,Dashboard - Branch - Operations
+WEBRC-1313,Improve Collections Page performance via Request Optimization
+WEBRC-272,Research on Postman Testing tool
+WEBRC-25,Performance/Stress test
+WEBRC-444,Home Page - Non-Selected Menu options shouldn’t be greyed out
+WEBRC-16,Display History information In the customer search result
+WEBRC-884,Update sp_employee_branches stored proc in Connect+ Production
+WEBRC-341,Improvement on Custom error/exception handling
+WEBRC-902,InApp Notification for Guest Invitation
+WEBRC-519,Admin Module
+WEBRC-277,Examine and document how the branch application starts up
+WEBRC-88,Implementing payment changes due to Repay changes
+WEBRC-102,"Adapting Telerik Table View for 5 reports, 1 customer search result"
+WEBRC-246,Authorization protocol change
+WEBRC-750,Finalize New Payment Types 
+WEBRC-765,Research on Server Side Pagination
+WEBRC-781,Admin Module Automation script
+WEBRC-756,Finalize Remaining tasks from Role Based Access 
+WEBRC-1381,Figma Design for Sprint 29 Items
+WEBRC-602,Admin Module - Show employees from home office for invitation
+WEBRC-231,Research on Testing Tools
+WEBRC-594,Explain Branch Application Concurrency Implementation for offshore team
+WEBRC-1117,Elk Stack Implementation
+WEBRC-1197,Document Release 2.4 Technical Changes  
+WEBRC-1379,Upload to Station 1
+WEBRC-336,Create UI component for Version Mismatch warnings
+WEBRC-906,Implement Notification Subscription
+WEBRC-1113,Design UI on Figma - Scan and Upload
+WEBRC-325,Dev/QA/Production deployment
+WEBRC-26,CICD Deployment to QA server
+WEBRC-957,dependency injection configuration
+WEBRC-892,DB Documentation - Collection
+WEBRC-640,User Icon and Drop down change
+WEBRC-599,Dashboard UI Change
+WEBRC-1321, Optimize query execution through refactoring and caching 
+WEBRC-795,Dashboard Service Unit test
+WEBRC-506,Slow File - Show Percentage upto two decimal places
+WEBRC-503,Delinquency Summary - Show percentage upto two decimal points
+WEBRC-443,Dashboard - Branch Activity Dashboard - Payments Received: Rename Remote label to Connect+
+WEBRC-1194,Automation Test Script for Sprint 25
+WEBRC-510,Customer account should show notification in Connect+ if opened in Branch
+WEBRC-35,Customer Info header should include DOB 
+WEBRC-570,Alternative to validate test branches whilst logging into Connect+
+WEBRC-628,Making prefix to AD UID in Collection Acitivity configurable.
+WEBRC-569,Employee Activity Report : Should show all employee activity even if Name is not found against the login ID.
+WEBRC-12,Concurrency - current application allows more than one person to work on an account 
+WEBRC-529,Cache the data when results are loaded for the first time.
+WEBRC-893,Move Config Settings to DB Driven Config
+WEBRC-346,Dashboard - Branch Activity - Displaying Projected Charge-Off's
+WEBRC-1231,Figma design
+WEBRC-278,Add feature for Creating Notes on the back end
+WEBRC-7,Create Repo and basic Solution structure
+WEBRC-656,Admin Module - Database design for claim and role management
+WEBRC-1375,Integrate Collection Note to Click to Dial
+WEBRC-2,Create CICD pipeline
+WEBRC-303,Coordination with the Testing Team
+WEBRC-677,"Ability to receive Cash, Money Order and Check payments in Connect+"
+WEBRC-963,Help Content
+WEBRC-445,Connect+ Application Performance Tuning
+WEBRC-271,Enable Connect Plus 2.0 for Branch Managers  
+WEBRC-267,Mobile device support
+WEBRC-266,Browser support - Internet Explorer
+WEBRC-297,Connect Plus 2.0 requirement gathering
+WEBRC-885,Execute DBA queries connect+ report on dashboard portal
+WEBRC-755,Browser Compatibility - Edge
+WEBRC-386,Connect + slow branches query performance measurement and reporting
+WEBRC-729,Add Test VMs to Connect+ and set up Branch Team users in Connect+ DEV Env
+WEBRC-688,Configure more Test VMs to Connect+ and set up Branch Team users in Connect+ QA Env
+WEBRC-450,Collections - Payments : Please include responsive design on the tables displayed in this page.
+WEBRC-406,Collection:  The Search button on the top-right corner of Customer table should read ‘Back to Customer Search’.
+WEBRC-404,Collection:  The Advanced button in ‘Customer Search’ should read ‘Show Advanced Options’.
+WEBRC-407,"Collection:  In the Customer table, don’t show ‘Customer ID’ instead show ‘Date of Birth’"
+WEBRC-405,Collection: The search criteria (bread crumb trail) of Customer Search should be displayed above the Customer Table.
+WEBRC-408,Collection: Completed tick mark in Customer Info is confusing – it should read ‘Complete’ and when completed should say ‘Completed’ with a tick mark.
+WEBRC-422,Collection – Customer Overview: Miscellaneous should have same options as that in Branch Operations
+WEBRC-512,Collection - References: Add 'Not Valid for Collection Reason' field
+WEBRC-515,Collection - Loan section: Add information from Account tab on Customer from Branch.
+WEBRC-494,Collection - Customer Table - Add 'Status' and 'Rec Status' columns.
+WEBRC-459,Collection - Customer Search - Ability to search by 'Account Status'
+WEBRC-575,Collection - Customer - Reference: Please allow ability to View and then Edit
+WEBRC-574,Collection - Customer - Address: Please allow ability to View and then Edit
+WEBRC-502,Collection - Collection Actions - Payments : Print Payment tab information.
+WEBRC-1112,Code Review and Merge 2.4 features
+WEBRC-789,"Collection - Unit test coverage on (Customer, Loan and Collection Manager)"
+WEBRC-788,Collection - Common and Branch Manager Unit Test 
+WEBRC-812,Copy Data to Home Office
+WEBRC-1030,Usage Stats Report- Guest Rearranging the Grid
+WEBRC-1218,View Renewal - Feedbacks - Testing
+WEBRC-1046,Move Usage Dashboard Filters to the left of the screen
+WEBRC-1025,Credit Report - UI Elements
+WEBRC-4,Change exe Branch app executes to call current RC to call new Remote Connect App
+WEBRC-15,Change SSN title change to SSN4 
+WEBRC-509,Centralized Payments - Introduce other modes of Payment via Connect+
+WEBRC-1100,API for uploading Release notes
+WEBRC-150,Performance Testing
+WEBRC-446,Branch Operations Dashboard - implement logic to make Branch Objective to be in the center of the scale.
+WEBRC-402,Branch Activity Dashboard – Loans: Rename Charge Offs as ‘Potential Charge Offs’ and move them to ‘Delinquency Summary’.
+WEBRC-403,Branch Activity Dashboard – Funds Disbursed: ‘Prepaid Card Loan Proceeds’ should be replaced with SecurityTRUST TM
+WEBRC-561,Get a List of Payment made from Connect + 
+WEBRC-491,Veracode Recommendation query update
+WEBRC-630,Enable pagination on reports
+WEBRC-328,Improving query builder. Converting existing SQL queries to Dapper parametrized query
+WEBRC-689,Investigate how Branch ID is collected and posted for any activity.
+WEBRC-687,Username (AD_UID) authentication when logging into Connect+ should not be case sensitive
+WEBRC-1186,"Documentation around Login, Branch Selection & Customer Lookup"
+WEBRC-754,Update Offline Branch Error Message
+WEBRC-1189,Manage Document type 
+WEBRC-839,Ensure there are a minimum of 2 users under Connect + Admin
+WEBRC-1207,Enable Logging for scan and upload
+WEBRC-744,Log all changes to a Permanent Location
+WEBRC-1048,Show Users Activity Dashboard
+WEBRC-760,Search and Retrieve Logs from Audit Trail
+WEBRC-391,Collection: Access to only 'Collection' when Employee logs into ConnectPlus
+WEBRC-853,Role Based Access - Show Custom Users
+WEBRC-844,Move Admin actions to overflow icon
+WEBRC-1245,Remove local file once saved to shared drive
+WEBRC-907,Whats New
+WEBRC-508,Collection - Collection Actions - Activities & Payments Table should display at least 5 rows.
+WEBRC-811,Customer Lookup - BackEnd Implementation 
+WEBRC-796,The 'Received Date' should be later or equal to Last Paid Date
+WEBRC-623,Clean up on Employee and Temp Employee
+WEBRC-830,Organizing data in Account 'Loan Information' tab
+WEBRC-809,Customer Lookup - Front End Implementation 
+WEBRC-887,Default Filter Criteria - Usage Dashboard
+WEBRC-1065,Hide Version Mismatch for now 
+WEBRC-626,Filter Employees on Admin pop up
+WEBRC-1243,Show Loading on pdf Viewer
+WEBRC-1073,Order Help Content 
+WEBRC-498,Login - Not Connected to DB
+WEBRC-726,Mobile App Identification
+WEBRC-507,Dashboard - Branch Operation Dashboard - Show percentage in Bad Debt
+WEBRC-653,Collection - Show Pay Off amount in Loan section
+WEBRC-505,Dashboard - Branch Operation Dashboard - Don't hide the calculation/math of the graphs.
+WEBRC-412,Branch Operation Dashboard: Card Layout Preference Saving
+WEBRC-538,Collections - Payment - Print Payments 
+WEBRC-1294,Send to OnBase
+WEBRC-550,Branch Operation Dashboard: Card Layout Preference
+WEBRC-738,Notification of a new Major release
+WEBRC-776,Indicate Required Field on Employee Activity Report - Search
+WEBRC-436,Collection – Customer Overview - Income: Should have the same variables and options as present in Branch Application
+WEBRC-516,Collection: Customer Comments to show next to Customer name.
+WEBRC-1047,Clean up different screens on Collection pages
+WEBRC-674,Browser Compatibility
+WEBRC-829,Account Tab - Refund Value
+WEBRC-564,Non disruptive sort on Employee activity 
+WEBRC-474,Collection - Search Customers - Select All option for Recency Criteria
+WEBRC-1131,Rotate Thumbnail 
+WEBRC-1134,Remove Thumbnail
+WEBRC-827,Update Version Label to 2.2
+WEBRC-1132,Categorize Documents 
+WEBRC-914,Type ahead search for Usage Dashboard
+WEBRC-1052,Dashboard - Default Load should be from Branch DB
+WEBRC-374,Show bankrupt account in Connect Plus
+WEBRC-715,Search Customer by Loan Number
+WEBRC-725,Search Customer by SSN
+WEBRC-1061,Add Feature to Remove a help content
+WEBRC-649,Admin Module - Mark State/Branch for Temporary Guest Employees
+WEBRC-624,Show Position on Add Employee Pop up
+WEBRC-611,Add an Expiration Date for Floating Employees
+WEBRC-615,Allow users to edit Expiration Date on Floating employees
+WEBRC-580,Collection - Customer - Payment: Add ability to waive a charge off/late fee
+WEBRC-454,Connect+ should have responsive design.
+WEBRC-889,Legal group should be able to edit Notes
+WEBRC-552,Audit Trail
+WEBRC-514,Collection: Show full SSN in correct format when mouse hovers over the SSN field.
+WEBRC-1244,Highlight Selected doc on Preview
+WEBRC-469,ADMIN - View List of Users
+WEBRC-413,Create Admin Module - Access control for another branch employee/supervisor
+WEBRC-472,ADMIN - 'Transfer Out' users from a branch
+WEBRC-470,ADMIN - 'Transfer In' Branch Users Temporarily 
+WEBRC-1273,View Thumbnail
+WEBRC-886,Click-to-Dial with 1 prefixed automatically when dialling from Jabber
+WEBRC-1414,Message after Editing Credit Guide on a Customer
+WEBRC-1280,New Name Column and remove columns in Customer Search Results table
+WEBRC-1278,Warn Customer when trying to leave Scan and Upload page without saving pdfs
+WEBRC-950,Results should be grouped by 'Branch ID' and total by branches should be displayed
+WEBRC-748,View Credit Report of a Customer.
+WEBRC-1283,Updates to Color coding of Accounts based on Account Status
+WEBRC-747,View Budget of a Customer
+WEBRC-749,Include ID information in Customer Overview
+WEBRC-904,Help Documents for Connect+ Features
+WEBRC-1413,'No Activity Date Range' to be added in Customer Search
+WEBRC-937,Ability to view 'Renewal Amount' in Connect+
+WEBRC-1035,User preference to select number of rows in Usage Dashboard
+WEBRC-1119,Show 'Loan Number' in Customer Search results table
+WEBRC-951,Updates to Login Report in 'System Usage Dashboard'
+WEBRC-890,Correct Name of Branch should be displayed in Connect+
+WEBRC-1367,Preferred Name should be displayed in quotes and not in parenthesis
+WEBRC-1281,Remove color coded column and add 'Account Class' column.
+WEBRC-1365,MI should be included in Name
+WEBRC-1118,"In Payment table, please show 'Payment Type' and 'Original Pmt Type' columns"
+WEBRC-1277,Create TIFF format files from scanned pages
+WEBRC-1366,"If Preferred Name is same as First Name, do not display 'Preferred Name'"
+WEBRC-1285,Remove 'Merge' option within individual categories
+WEBRC-1298,Ability to multi-select Employee Names in Employee Activity Detail report
+WEBRC-1415,Collection Notes - Export to PDF
+WEBRC-1170,POC - Create Collection notes when Click to Dial is used to make a phone call.
+WEBRC-1123,Ability to upload documents from local Computer in Connect+
+WEBRC-1081,Ability to Scan documents in Connect+
+WEBRC-1169,Ability to search for Customer using their phone number or references phone number.
+WEBRC-1338,Introduce 'Payment Made Date' field in 'Customer Search' screen.
+WEBRC-1171,Color code Accounts based on their categorization
+WEBRC-1284,Saving Table views for a given user across different sessions
+WEBRC-1282,Rename 'Save All' to 'Upload All' and 'Cancel' to 'Discard'
+WEBRC-746,Customer Communication Preference
+WEBRC-869,Check Number field should take upto 9 digits 
+WEBRC-1109,Save merged Documents.
+WEBRC-1124,View List of Merged Documents
+WEBRC-1108,Name format of the merged document
+WEBRC-1220,Show current scanned document on preview
+WEBRC-1300,Employee Activity Detail - Also show the Results section content when reviewing Collection entries
+WEBRC-1106,ReOrder & categorization of scanned pages
+WEBRC-1225,Identify Collection Notes with Results
+WEBRC-952,Update Legal group description in Groups list
+WEBRC-927,View Collateral tab in Connect+
+WEBRC-949,All & multi-selection of States/Branches to be available for all Reports in 'System Usage Dashboard'
+WEBRC-1224,Mobile App indicator placement and room to accommodate more icons in future
+WEBRC-1302,Show in Connect+ if Customer is qualified for renewal or not
+WEBRC-727,Intuitive UI for Customer payment history
+WEBRC-1423,Insurance Claims Posted Report
+WEBRC-1420,Hardship Details Report
+WEBRC-1421,Exception Activity-Cease and Desist Flag Modified Report
+WEBRC-1416,Exception Activity-NSF Check Charge Report
+WEBRC-1417,Exception Activity-Reversal Payment Report
+WEBRC-1424,Exception Activity-Component Adjustments Report
+WEBRC-1418,Exception Activity-NSF Reversal Report
+WEBRC-1419,Employee Activity Detail-Payment Activity Report
+WEBRC-1368,Daily Closing Reports
+WEBRC-1422,Account Update Exception Report
+WEBRC-1223,Edit 'Credit Guide' section of Customer
+WEBRC-1040,Ability to waive extra fee in Account tab.
+WEBRC-1037,View Renewal in Payment tab
+WEBRC-1041,Ability to pull Credit Report and/or MLA Status
+WEBRC-1148,Ability to reverse payments from Connect+
+WEBRC-1147,Auto-Process payments posted from Connect+
+WEBRC-1308,Show the User who took the payment in Connect+ Payment report
+WEBRC-1043,"In Payment Report, please show count and amount on Graph. - Usage Dashboard"
+WEBRC-1042,Show Default Group/Role assignment for 'Exception' users
+WEBRC-1127,Updates to ‘Assign Supervisor’ Search screen
+WEBRC-1317,Add 'Executive Management Trainee' in Supervisor Assignments
+WEBRC-1126,Toggle swtich in Employee Activity to show only edits/additions
+WEBRC-1144,Ability to search for 'Supervisor in Training' in 'Add Supervisor' search
+WEBRC-946,Label Changes in User Management - Connect+ Administration
+WEBRC-947,Export to Excel option for all Report Types in 'System Usage Dashboard' page
+WEBRC-948,Date range selection to be available in for all Reports in 'System Usage Dashboard'
+WEBRC-936,Admin to have the ability to add Supervisor as a guest to a branch.
+WEBRC-410,Login Screen: Display the role of logged in user above state/branch selection.
+WEBRC-700,Daily logged in User Count
+WEBRC-701,Export Collection Activities being written from Connect +
+WEBRC-757,Design and implement Connect+ report in SFC Dashboard Portal App
+WEBRC-762,Number of Collection Notes Posted
+WEBRC-761,Number of Logged in User
+WEBRC-764,Employees working as a Guest at a branch
+WEBRC-763,Amount of Money Collected 
+WEBRC-808,Create Setup /Configuration for State Customer Lookup
+WEBRC-691,"When user belongs to two or more Connect+ roles, the user will have access added from all the roles"
+WEBRC-342,Admin Module - Adapt Domain Driven Clean architecture  framework V2 version
+WEBRC-268,Export to PDF and Excel
+WEBRC-609,Update Query to Include Branch ID on where clause
+WEBRC-1070,Mexico - Branches Should be Prefixed with MX 
+WEBRC-671,Sprint 18 Tickets Testing 
+WEBRC-532,Admin Module - Create another table in HomeOffice to maintain floating employees
+WEBRC-270,Other UI changes to Connect Plus 2.0 
+WEBRC-693,Configure Serilog for authorization server 
+WEBRC-1056,Q-test on Remaining Items
+WEBRC-1058,Q-test on Sprint 24
+WEBRC-631,Adding read only feature for QA environment 
+WEBRC-601,"Add prefix ""cp_"" to usernames of users creating collection Activity"
+WEBRC-721,Dashboard - Branch Activity - Fetch data from Home Office DB optionally 
+WEBRC-338,Turn off all the live branches from Dev and QA 
+WEBRC-9,Data  table for Activity dropdown
+WEBRC-1289,Kibana
+WEBRC-449,Table padding and blank space utilization across the product
+WEBRC-375,Show a circle ticker while data is getting retrieved 
+WEBRC-116,Dashboard View
+WEBRC-686,Label corrections
+WEBRC-692,Introduce new Connect+ Role - Check Payment
+WEBRC-588,Admin Module - Add People screen should only list the states/branches the logged in user has access to
+WEBRC-1378,Ability to Remove Selected Employees from Report Selection
+WEBRC-712,Using Connect+ for Remote Visits
+WEBRC-713,Using Connect+ for verifying in Branch visits 
+WEBRC-840,Update Migration Script to Mark Admin Group Default
+WEBRC-657,Admin Database based claim and role authorization
+WEBRC-22,Error Handling on Login
+WEBRC-70,Address Validations
+WEBRC-3,Search for Collection (customers)
+WEBRC-421,Branch Activity Dashboard – Payments Received: Aggregate all Cash and Check payments 
+WEBRC-5,Enter Collection Activity
+WEBRC-6,Enter New Address
+WEBRC-1,Prevent Remote connect to login/remain logged  5 pm to 8 am
+WEBRC-39,Make a Payment functionality 
+WEBRC-13,Enter or update Reference(s)
+WEBRC-64,Address Add or Update should validate against USPS
+WEBRC-43,Retrieve  connection string to Branch database for home office database
+WEBRC-71,Employee Activity Report - Solicit Activity - Front-End
+WEBRC-76,Employee Activity Report - ALL Activity
+WEBRC-84,Employee Activity Report - Solicit Activity - BackEnd
+WEBRC-81,Employee Activity Report - Loan Activity - Front-end
+WEBRC-82,Employee Activity Report - Application Activity  - Back End
+WEBRC-83,Employee Activity Report - Payment Activity - BackEnd
+WEBRC-49,Employee Activity Report - Application Activity  - Front End
+WEBRC-59,Employee Activity Report - Payment Activity - FrontEnd
+WEBRC-54,Employee Activity Report - Loan Activity
+WEBRC-42,Employee Activity Report - Collection
+WEBRC-139,Roles/Permissions and Branch selection criteria with Role-based testing
+WEBRC-23,Roles/Permissions and Branch selection criteria
+WEBRC-1233,POC with NewRelic
+WEBRC-770,Automatic Test Cases on Employee Activity 
+WEBRC-807,Minor UI Modification
+WEBRC-571,Configuration to switch to Supervisors only login to Connect+
+WEBRC-520,Account Status
+WEBRC-567,Collection: Re-order the tabs present on a Customer.
+WEBRC-578,Collection - Payments table should have latest entries on the top.
+WEBRC-573,Customer - Customer - Address: Add 'Text # Opt In:' in Address table
+WEBRC-572,Collection: Customer Info same as that from 'Customer tab' from Branch
+WEBRC-852,Prepare qTest for Sprint 21 Items
+WEBRC-768,Redis 
+WEBRC-1155,Calculate Renewal
+WEBRC-1287,Testing Calculate Renewal
+WEBRC-1350,Updates on Pop up - Scan and upload 
+WEBRC-1407,Align and resize the textboxes with the updated buttons size
+WEBRC-551,Collection - Customer - Charge off
+WEBRC-751,Finalize Testing Web Payment Amount
+WEBRC-734,Log User Branch Connection activities
+WEBRC-879,POC - Allow users to access all branches in a state
+WEBRC-926,Admin Dashboard bug fix
+WEBRC-1125,Access Archived Log Data 
+WEBRC-774,Create Activity for New Payment Types
+WEBRC-625,Changes to Export to PDF on Collection Activity
+WEBRC-1380,Compute Renewal
+WEBRC-679,Change Pay Off Label 
+WEBRC-753,Finalize Items on Accounts Tab
+WEBRC-778,Add Dashboard Setting 
+WEBRC-845,Collection - Unit Test on Customer (Activity)
+WEBRC-816,"Feedback from New Payment Type (check, money order and cash)"
+WEBRC-276,Get latest branch application source code
+webrc-150000,scan and upload
+webrc-15000,scan and upload
+webrc-15000,scan and upload
+webrc-5643423123,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-3456754,scan and upload
+webrc-158907,new
+webrc-16000,new
+webrc-15000,new
+webrc-15000,new
+webrc-15000,new
+webrc-3456754,new
+webrc-5643423123,newww
+webrc-5643423123,newww
+webrc-158907,scan
+webrc-16000,scaned
+webrc-16000,scaned
+webrc-456,upload
+webrc-654,scan
+webrc-654,scan
+webrc-87,uploaded
+webrc-190000,the user should be able to view results
+webrc-190000,the user should be able to view results

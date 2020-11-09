@@ -1,0 +1,1 @@
+Admin to have the ability to add Supervisor as a guest to a branch.

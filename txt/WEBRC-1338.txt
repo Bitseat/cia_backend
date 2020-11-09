@@ -1,0 +1,1 @@
+Introduce Payment Made Date field in Customer Search screen.

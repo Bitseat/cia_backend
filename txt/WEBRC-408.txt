@@ -1,0 +1,1 @@
+Collection Completed tick mark in Customer Info is confusing – it should read ‘Complete’ and when completed should say ‘Completed’ with a tick mark.

@@ -1,0 +1,1 @@
+Collection The search criteria (bread crumb trail) of Customer Search should be displayed above the Customer Table.

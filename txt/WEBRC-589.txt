@@ -1,0 +1,1 @@
+Create a library that will take a Model and returns a formatted and parameterized sql query

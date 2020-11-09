@@ -1,0 +1,1 @@
+Payment made from connect + should automatically post the payment on the customer in branch

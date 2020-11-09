@@ -1,0 +1,1 @@
+Username (AD_UID) authentication when logging into Connect+ should not be case sensitive

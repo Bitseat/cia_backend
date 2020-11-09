@@ -1,0 +1,1 @@
+Admin Module - Adapt Domain Driven Clean architecture  framework V2 version

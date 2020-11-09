@@ -1,0 +1,1 @@
+Ability to multi-select Employee Names in Employee Activity Detail report

@@ -1,0 +1,1 @@
+the user should be able to view results

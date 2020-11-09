@@ -1,0 +1,1 @@
+Collection - Customer Table - Add Status and Rec Status columns.

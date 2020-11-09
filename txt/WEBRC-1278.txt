@@ -1,0 +1,1 @@
+Warn Customer when trying to leave Scan and Upload page without saving pdfs

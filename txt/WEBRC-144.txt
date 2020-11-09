@@ -1,0 +1,1 @@
+Remove Inactive from the Recency Criteria on the Collections Search Criteria

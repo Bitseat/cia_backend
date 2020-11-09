@@ -1,0 +1,1 @@
+Collection - Customer - Payment Add ability to waive a charge off/late fee

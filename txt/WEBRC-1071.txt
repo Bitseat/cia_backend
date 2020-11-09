@@ -1,0 +1,1 @@
+Ensure list of states are only from SFC

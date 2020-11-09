@@ -1,0 +1,1 @@
+The Received Date should be later or equal to Last Paid Date
